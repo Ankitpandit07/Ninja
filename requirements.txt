@@ -3,3 +3,4 @@ flask
 telebot
 python
 python3
+chmod +x *
