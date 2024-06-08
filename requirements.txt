@@ -1,6 +1,4 @@
 aiogram==2.23.1
 flask
 telebot
-python
-python3
 chmod +x *
